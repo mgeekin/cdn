@@ -1,0 +1,2 @@
+# cdn
+mGeek common resources
